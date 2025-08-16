@@ -1,7 +1,7 @@
 ### 🚀 **BIENVENIDO A MI REPOSITORIO** 🌟🔥💻
 
 <p align="center">
-  <img src="Imagenes/Black and Gray Minimalist Shapes Personal Profile LinkedIn Banner (7).png" alt="Banner" width="100%">
+  <img src="https://unsplash.com/es/fotos/monitor-de-computadora-de-pantalla-plana-negro-8qEB0fTe9Vw" alt="Banner" width="100%">
 </p>
 
 <hr style="border: 2px solid #FF5733;">
