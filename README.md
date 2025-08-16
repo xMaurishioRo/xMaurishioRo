@@ -1,4 +1,4 @@
-### 🚀 **BIENVENIDO A MI MUNDO DIGITAL!** 🌟🔥💻
+### 🚀 **BIENVENIDO A MI REPOSITORIO** 🌟🔥💻
 
 <p align="center">
   <img src="Imagenes/Black and Gray Minimalist Shapes Personal Profile LinkedIn Banner (7).png" alt="Banner" width="100%">
@@ -7,23 +7,7 @@
 <hr style="border: 2px solid #FF5733;">
 
 <h3 align="left">Software Developer</h3>
-<h3 align="left">Desarrollador Fullstack especializado en Backend con Spring Boot y Frontend con Angular</h3>
-
-**Desarrollador** **Freelance** desde el **2021**, trabajando con distintos equipos en proyectos que van desde **aplicaciones** **de** **escritorio con Java** hasta **sistemas web con Spring Boot**. Paralelamente, estudio la carrera de **Desarrollo de Software** (que comenzó el mismo año que mi trayectoria freelance), con experiencia previa en programación desde antes de la universidad.
-
-**Creador de contenido técnico** especializado en:
-- 🎥 **YouTube** (desde 8 mayo 2023): Más de **150 videos** sobre:
-  - **Backend** (Java, Spring Boot, PHP)
-  - **Bases de datos** (SQL, ORMs, optimización)
-  - **Control de versiones** (Git/GitHub)
-  - Proyectos completos: desde **arquitectura** hasta **despliegue**
-- 📝 **LinkedIn y otras plataformas**: Contenido avanzado sobre:
-  - **Spring Boot** (seguridad, microservicios)
-  - **Buenas prácticas** backend
-  - Casos de estudio para **desarrolladores con experiencia**
-
-Paralelamente a mi labor,me he ofrecido a dar **tutorías** a distintos semestres en la universidad enseñando **Java**, comenzando cuando estaba en **tercer semestre**. Más recientemente, en **sexto semestre**, he impartido tutorías a estudiantes de **1° a 5° semestre** de **Ingeniería en Sistemas** todos los días de la semana. 
-
+<h3 align="left">Desarrollador Móvil </h3>
 
 <p align="left">
   <a href="https://github.com/Carlos-Marrugo">
