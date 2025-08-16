@@ -1,7 +1,7 @@
 ### 🚀 **BIENVENIDO A MI REPOSITORIO** 🌟🔥💻
 
 <p align="center">
-  <img src="https://unsplash.com/es/fotos/monitor-de-computadora-de-pantalla-plana-negro-8qEB0fTe9Vw" alt="Banner" width="100%">
+  <img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Banner" width="100%">
 </p>
 
 <hr style="border: 2px solid #FF5733;">
